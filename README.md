@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Carolina López</h1>
-<h3 align="center">🌍 Hello! I’m a driven engineering student at Universidad Carlos III de Madrid, pursuing a Dual Bachelor’s in Data Science and Engineering & Telecommunication Technologies.🚀 Projects & Passions: My work spans data science, systems engineering, and design projects in diverse teams and individually—always with a focus on dedication and learning.</h3>
+<h1 align="center">CAROL LÓPEZ</h1>
+<h3 align="center">🌍 Hello! I’m a driven engineering student at Universidad Carlos III de Madrid, pursuing a Dual Bachelor’s in Data Science and Engineering & Telecommunication Technologies.</h3>
+<h3 align="center">🚀 Projects & Passions: My work spans data science, systems engineering, and design projects in diverse teams and individually—always with a focus on dedication and learning.</h3>
 
 - 📫 How to reach me **carollopezmadriz@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/mx9zvlt8afuot4xdfooem/Resume.pdf?rlkey=q2qgojbaw762o27zwbppcwbg3&st=l6594qk4&dl=0](https://www.dropbox.com/scl/fi/mx9zvlt8afuot4xdfooem/Resume.pdf?rlkey=q2qgojbaw762o27zwbppcwbg3&st=l6594qk4&dl=0)
+- 📄 Know about my experiences [RESUME](https://www.dropbox.com/scl/fi/mx9zvlt8afuot4xdfooem/Resume.pdf?rlkey=q2qgojbaw762o27zwbppcwbg3&st=l6594qk4&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

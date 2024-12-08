@@ -2,6 +2,11 @@
 <h3 align="center">Driven by innovation, analytics, and impactful engineering solutions. Empowering projects through data science and cutting-edge technologies.</h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Engineering+Student+%7C+Data+Enthusiast;Striving+for+Innovation&center=true&width=500&height=50" alt="Typing Animation" />
+</p>
+
+---
 
 ### 👋 About Me
 - 🎓 Undergraduate student pursuing a **Dual Bachelor in Data Science and Telecommunication Technologies Engineering** at **Universidad Carlos III de Madrid**.
@@ -69,19 +74,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carolinalopezdelamadriz" height="30" width="40" />
   </a>
   <a href="mailto:carollopezmadriz@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="carollopezmadriz@gmail.com" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="carollopezmadriz@gmail.com" height="30" width="40" />
   </a>
 </p>
-
 ---
 
 ### 🌐 Visitor Counter
 ![Profile Visits](https://komarev.com/ghpvc/?username=carol-lopez&color=blue)
 
----
 
-### 🔗 Typing Animation
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Engineering+Student+%7C+Data+Enthusiast;Striving+for+Innovation&center=true&width=500&height=50" alt="Typing Animation" />
-</p>
 
